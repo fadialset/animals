@@ -1,0 +1,5 @@
+/*********Animals that could be pets *********/
+
+1)Dogs
+2)Cats
+3)Hamesters
