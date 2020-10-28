@@ -1,0 +1,4 @@
+/*********Animals we find in the zoo *********/
+1) Giraffes  
+2) Monkeys  
+3) Tigers  
